@@ -185,7 +185,7 @@ npm run dev
 | App | http://localhost:3000 |
 | Demo admin | `admin@example.com` / `Admin123!` |
 
-> Postgres is mapped to host port **5433** by default so it won’t collide with a local Postgres on `5432`.
+> Postgres is mapped to host port **5434** by default so it won’t collide with local Postgres (`5432`) or the NestJS RBAC starter (`5433`).
 
 **One-command stack:**
 
